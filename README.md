@@ -436,7 +436,7 @@ These systems can alter multiple parts of an agent or its harness, not just the 
 | [A-Evolve](https://github.com/A-EVO-Lab/a-evolve) | Agent programs and evolutionary strategy configuration | Pluggable evaluators + archive | [![Paper][paper-badge]](https://arxiv.org/abs/2602.00359 "Paper") |
 | [Exo](https://github.com/exoharness/exo) | Prompts, memory, tools, policy, harness code | Immutable event history; experimental | Recursive harness runtime |
 | [Yoyo Evolve](https://github.com/yologdev/yoyo-evolve) | Its own Rust source | Tests + scheduled promotion | Public GitHub evolution history |
-| [Harness-Zero](https://arxiv.org/abs/2609.24974) | Model weights (optimized harness behaviors distilled during training) | Three-domain macro average vs runtime harness | [![Paper][paper-badge]](https://arxiv.org/abs/2609.24974 "Paper") |
+| [Harness-Zero](https://github.com/metaevo-ai/harness-zero) | Model weights (optimized harness behaviors distilled during training) | Three-domain macro average vs runtime harness | [![Code + Paper][code-paper-badge]](https://arxiv.org/abs/2609.24974 "Paper") |
 
 ### Prompt, skill, memory, and context evolution
 
